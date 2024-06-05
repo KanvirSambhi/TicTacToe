@@ -4,23 +4,7 @@ Tic Tac Toe recreated in C++ to be played in an IDE.
 
 This Game is Meant To be played within a run application or in Terminal...
 
-
-The Game Board is Meant of a 3x3 GRID showcased as
-
-  1 2 3
-1 * * *
-2 * * *
-3 * * *
-
-When inputted "1 3"
-
-It showcases
-  1 2 3
-1 * * X
-2 * * *
-3 * * *
-
-Since the order for Arrays is by Row then Column
+Output will be Recognized as "1 3" showcasing the array method using Rows and Columns
 
 Code Will Not Work if there Is Not A Space
 
