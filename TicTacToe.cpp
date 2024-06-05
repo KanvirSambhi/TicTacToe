@@ -1,3 +1,21 @@
+/*
+    The Game Board is Meant of a 3x3 GRID showcased as
+
+  1 2 3
+1 * * *
+2 * * *
+3 * * *
+
+When inputted "1 3"
+
+It showcases
+  1 2 3
+1 * * X
+2 * * *
+3 * * *
+*/
+
+// C++ Libraries
 #include <iostream>
 #include <string>
 #include <iomanip>
