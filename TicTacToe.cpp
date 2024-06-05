@@ -1,5 +1,5 @@
 /*
-    The Game Board is Meant of a 3x3 GRID showcased as
+The Game Board is Meant of a 3x3 GRID showcased as
 
   1 2 3
 1 * * *
