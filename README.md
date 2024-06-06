@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic Tac Toe in C++
 Tic Tac Toe recreated in C++ to be played in an IDE.
 
 
